@@ -1,0 +1,11 @@
+branch_id,branch_name,city,state,opened_date
+1,Chennai Central Library,Chennai,State_1,2011-01-01
+2,Bengaluru Central Library,Bengaluru,State_2,2012-01-01
+3,Hyderabad Central Library,Hyderabad,State_3,2012-12-31
+4,Mumbai Central Library,Mumbai,State_4,2013-12-31
+5,Delhi Central Library,Delhi,State_5,2014-12-31
+6,Kolkata Central Library,Kolkata,State_6,2015-12-31
+7,Pune Central Library,Pune,State_7,2016-12-30
+8,Jaipur Central Library,Jaipur,State_8,2017-12-30
+9,Ahmedabad Central Library,Ahmedabad,State_9,2018-12-30
+10,Bhubaneswar Central Library,Bhubaneswar,State_10,2019-12-30
